@@ -1,0 +1,35 @@
+{
+  "name": "sveltekit-route-list",
+  "version": "1.0.0",
+  "description": "CLI tool to view a list of your SvelteKit routes",
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "bin": {
+    "route:list": "./bin/sveltekit-route-list.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sveltekit",
+    "routes",
+    "cli",
+    "svelte",
+    "route-list",
+    "developer-tools"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/sveltekit-route-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/sveltekit-route-list/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "bin"
+  ]
+}

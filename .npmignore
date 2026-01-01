@@ -1,0 +1,11 @@
+.git/
+.github/
+.vscode/
+.idea/
+*.test.js
+test/
+tests/
+examples/
+.DS_Store
+.env
+.env.*
