@@ -19,13 +19,13 @@ npm install --save-dev sveltekit-route-list
 Run the command in your SvelteKit project root:
 
 ```bash
-svelte-route-list
+sveltekit-route-list
 ```
 
 Or specify a custom routes directory:
 
 ```bash
-svelte-route-list path/to/your/routes
+sveltekit-route-list path/to/your/routes
 ```
 
 If installed locally, add to your `package.json` scripts:
@@ -33,7 +33,7 @@ If installed locally, add to your `package.json` scripts:
 ```json
 {
   "scripts": {
-    "routes": "svelte-route-list"
+    "routes": "sveltekit-route-list"
   }
 }
 ```
