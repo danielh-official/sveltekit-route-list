@@ -6,7 +6,7 @@
   "author": "Daniel Haven",
   "type": "module",
   "bin": {
-    "sveltekit-route-list": "./bin/sveltekit-route-list.js"
+    "sveltekit-route-list": "bin/sveltekit-route-list.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielh-official/sveltekit-route-list.git"
+    "url": "git+https://github.com/danielh-official/sveltekit-route-list.git"
   },
   "bugs": {
     "url": "https://github.com/danielh-official/sveltekit-route-list/issues"
